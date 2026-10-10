@@ -15,6 +15,6 @@ class Solution {
             map.put(nums[i], i);
         }
         
-        return new int[] {}; // Fallback (problem guarantees a solution exists)
+        return new int[] {};
     }
 }
